@@ -1,7 +1,7 @@
 # UG-Management
 
 
-Main Menu	
+Main Menu	\n
 Add user
 Modify user
 -change password
@@ -18,7 +18,7 @@ Enable user account
 Change user password
 Exit
 
-Main Menu
+Main Menu\n
 ![image](https://user-images.githubusercontent.com/132482380/236002185-969ea275-ad2d-41ed-9a49-e6c4a5732cc0.png)
 Add user
 ![image](https://user-images.githubusercontent.com/132482380/236002237-e19f9f50-31b8-456e-877f-ba605c7ae699.png)
